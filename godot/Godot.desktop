@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Godot
+Comment=Godot
+Exec=/home/raketa/Godot/Godot
+Icon=/home/raketa/Godot/icon_color.png
+Terminal=false
+Type=Application
+Categories=Programming;
