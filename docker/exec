@@ -1,2 +1,2 @@
-docker exec -it raketaUbuntu bash
+docker exec -it -u raketa raketaUbuntu zsh
 
